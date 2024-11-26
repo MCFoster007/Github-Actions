@@ -31,4 +31,5 @@ jobs:
         
       # Run lint
       - name: Run Lint
-        run: npm run lint
+        run: npm run lint 
+        // net pick on the code. harder to read and make it better
